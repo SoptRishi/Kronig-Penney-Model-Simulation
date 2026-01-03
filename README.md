@@ -43,6 +43,3 @@ The script generates two figures for each case to visualize the band structure s
 * `P`: Dimensionless scattering power (Delta case).
 * `n`: Resolution of the -space simulation.
 
-## Usage Note
-
-The script is structured into two independent code sections (`%%`). Use **Run Section** in MATLAB to execute the Finite and Delta simulations separately.
